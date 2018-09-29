@@ -1,0 +1,62 @@
+.content {
+  height: 570px;
+  background-color: #67C23A;
+}
+.bottom-left {
+  color: #989898;
+  font-size: 14px;
+  position: absolute;
+  left: 10%;
+  padding-top: 10px;
+}
+
+.bottom-right {
+  color: #989898;
+  font-size: 14px;
+  position: absolute;
+  right: 10%;
+  padding-top: 10px;
+}
+
+.title {
+  color: white;
+  font-size: 2em;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+}
+
+.title p {
+  text-shadow: 5px 5px 5px #FF0000;
+  letter-spacing: 10px;
+}
+
+.form {
+  padding: 0px 32px 32px 32px;
+  width: 420px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 10%;
+  margin: auto;
+}
+
+.form div {
+  margin-top: 1px;
+}
+
+.form div span {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.rgBt {
+  margin-top: 18px;
+  width: 100%;
+}
+
+.notice {
+  color: red;
+  font-size: 12px;
+  text-align: center;
+}

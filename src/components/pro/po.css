@@ -1,0 +1,12 @@
+.notice {
+  height: 12px;
+  color: red;
+  font-size: 12px;
+  text-align: center;
+}
+.el-input{
+  padding: 0px;
+}
+.el-dialog__body{
+  padding: 0px;
+}

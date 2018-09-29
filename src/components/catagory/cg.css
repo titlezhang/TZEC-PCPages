@@ -1,0 +1,23 @@
+.notice {
+  height: 12px;
+  color: red;
+  font-size: 12px;
+  text-align: center;
+}
+.el-input{
+  padding: 0px;
+}
+.el-dialog__body{
+  padding: 0px;
+}
+.dialogTitle{
+  color: gray;
+  font-size: 18px;
+}
+.elCol{
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.queryPad{
+  height: 100px;
+}

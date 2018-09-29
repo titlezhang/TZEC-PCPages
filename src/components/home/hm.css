@@ -1,0 +1,48 @@
+.header{
+  box-shadow: 0px 0px 1px #888888
+
+}
+
+.header .logo-pad {
+  width: 100%;
+}
+.logo-text{
+  color: blue;
+  font-size: 24px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: 60px;
+}
+.header .menu-pad {
+  width: 100%;
+  padding-top: 0px;
+}
+.user-text{
+  line-height: 60px;
+}
+.menu-item {
+  margin-top: 50px;
+}
+
+.aside {
+  width: 200px;
+}
+.logout-btn{
+  font-size: 16px;
+  padding: 0px;
+  line-height: 60px;
+}
+
+.top-main {
+  padding-top: 1px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.main {
+  padding-left: 0px;
+  padding-top: 1px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
