@@ -61,9 +61,9 @@
     </el-main>
     <el-footer>
       <span class="bottom-left">
-          广电银通公司 版权所有 Copyright © 2003-2018 GRGBanking, All Rights Reserved
+          TZEC 版权所有 Copyright © 2003-2018 GRGBanking, All Rights Reserved
       </span>
-      <span class="bottom-right">科技金融·智慧服务 We Move Faster</span>
+      <span class="bottom-right">我们爱学习，我们搞事情！</span>
     </el-footer>
   </el-container>
 </template>

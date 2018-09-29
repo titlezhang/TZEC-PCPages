@@ -1,4 +1,4 @@
-# wt-vue
+# tzec-pcpages
 
 > A Vue.js project
 

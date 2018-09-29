@@ -5,7 +5,7 @@
       <el-row>
         <el-col :span="20">
           <div  class="logo-pad">
-            <label class="logo-text">广电银通微服务研发平台</label>
+            <label class="logo-text">TZEC</label>
           </div>
         </el-col>
         <el-col :span="4">
